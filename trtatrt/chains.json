@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "p_venture_capital",
+  "name": "CBC_Venture_Capital",
   "chains": [
     {
       "name": "mun",
